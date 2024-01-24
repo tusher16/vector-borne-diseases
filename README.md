@@ -12,8 +12,7 @@ This repository contains the code and resources for a project aimed at predictin
 - [Methodology](#methodology)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
