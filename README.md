@@ -1,4 +1,4 @@
-# Vector Borne Diseases (VBD) Project README
+# Vector Borne Diseases (VBD)
 
 ## Overview
 
